@@ -1,0 +1,172 @@
+[
+  {
+    "id": 833424,
+    "rating": 4.8,
+    "title": "Reaper Man (Discworld, #11; Death, #2)"
+  },
+  {
+    "id": 58784475,
+    "rating": 4.3,
+    "title": "Tomorrow, and Tomorrow, and Tomorrow"
+  },
+  {
+    "id": 36223860,
+    "rating": 3.8,
+    "title": "Artificial Condition (The Murderbot Diaries, #2)"
+  },
+  {
+    "id": 41071407,
+    "rating": 4.1,
+    "title": "Edgedancer  (The Stormlight Archive, #2.5)"
+  },
+  {
+    "id": 32758901,
+    "rating": 3.9,
+    "title": "All Systems Red (The Murderbot Diaries, #1)"
+  },
+  {
+    "id": 8350864,
+    "rating": 4.2,
+    "title": "Dark Matter: A Ghost Story"
+  },
+  {
+    "id": 386372,
+    "rating": 3.4,
+    "title": "Mort (Discworld, #4; Death, #1)"
+  },
+  {
+    "id": 34506,
+    "rating": 4.1,
+    "title": "The Light Fantastic (Discworld, #2; Rincewind, #2)"
+  },
+  {
+    "id": 64218,
+    "rating": 3.6,
+    "title": "Eric (Discworld, #9; Rincewind, #4)"
+  },
+  {
+    "id": 58690308,
+    "rating": 4.5,
+    "title": "Book Lovers"
+  },
+  {
+    "id": 58245377,
+    "rating": 4.6,
+    "title": "Geometry for Ocelots"
+  },
+  {
+    "id": 60521558,
+    "rating": 4.5,
+    "title": "Dawnshard"
+  },
+  {
+    "id": 54493401,
+    "rating": 4.7,
+    "title": "Project Hail Mary"
+  },
+  {
+    "id": 56078386,
+    "rating": 4.6,
+    "title": "Heaven's River (Bobiverse, #4)"
+  },
+  {
+    "id": 60159416,
+    "rating": 4.4,
+    "title": "Red, White &amp; Royal Blue"
+  },
+  {
+    "id": 60475903,
+    "rating": 4.5,
+    "title": "Oathbringer Part Two (The Stormlight Archive, #3.2)"
+  },
+  {
+    "id": 60618194,
+    "rating": 4.5,
+    "title": "Oathbringer Part One: The Stormlight Archive Book Three"
+  },
+  {
+    "id": 75739629,
+    "rating": 4.7,
+    "title": "Daisy Jones &amp; The Six"
+  },
+  {
+    "id": 35506021,
+    "rating": 4.6,
+    "title": "All These Worlds (Bobiverse, #3)"
+  },
+  {
+    "id": 33395557,
+    "rating": 4.5,
+    "title": "For We Are Many (Bobiverse, #2)"
+  },
+  {
+    "id": 32109569,
+    "rating": 4.7,
+    "title": "We Are Legion (We Are Bob) (Bobiverse, #1)"
+  },
+  {
+    "id": 28954189,
+    "rating": 4.7,
+    "title": "Scythe (Arc of a Scythe, #1)"
+  },
+  {
+    "id": 60475860,
+    "rating": 4.8,
+    "title": "Words of Radiance, Part 1 (The Stormlight Archive #2, Part 1 of 2)"
+  },
+  {
+    "id": 60475868,
+    "rating": 4.9,
+    "title": "Words of Radiance, Part 2 (The Stormlight Archive #2, Part 2 of 2)"
+  },
+  {
+    "id": 58107493,
+    "rating": 4.7,
+    "title": "The Way of Kings Part One (The Stormlight Archive #1, part 1)"
+  },
+  {
+    "id": 17563539,
+    "rating": 4.5,
+    "title": "The Egg"
+  },
+  {
+    "id": 58107494,
+    "rating": 4.7,
+    "title": "The Way of Kings Part Two: The Stormlight Archive Book One"
+  },
+  {
+    "id": 515601,
+    "rating": 4.4,
+    "title": "The C Programming Language"
+  },
+  {
+    "id": 4948,
+    "rating": 5.0,
+    "title": "The Very Hungry Caterpillar"
+  },
+  {
+    "id": 11,
+    "rating": 4.8,
+    "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)"
+  },
+  {
+    "id": 11697097,
+    "rating": 4.7,
+    "title": "Call Me by Your Name"
+  },
+  {
+    "id": 34507,
+    "rating": 4.6,
+    "title": "Equal Rites (Discworld, #3; Witches, #1)"
+  },
+  {
+    "id": 34499,
+    "rating": 4.7,
+    "title": "Sourcery (Discworld, #5; Rincewind, #3)"
+  },
+  {
+    "id": 601238,
+    "rating": 4.6,
+    "title": "The Colour of Magic (Discworld, #1; Rincewind, #1)"
+  }
+]
