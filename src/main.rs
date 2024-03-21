@@ -1,10 +1,10 @@
-use std::env;
+#![allow(non_snake_case)]
+
 use std::fs::read_to_string;
 use std::io::{BufWriter, stdin, Write};
 use std::fs::File;
 
 use serde::{Deserialize, Serialize};
-use serde_json::Value::Array;
 use crate::Choice::{INVALID, NEW};
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
